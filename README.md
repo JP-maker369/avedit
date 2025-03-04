@@ -1,1 +1,2 @@
 # funny_editor
+new
