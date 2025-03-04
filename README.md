@@ -1,2 +1,1 @@
 # funny_editor
-new
