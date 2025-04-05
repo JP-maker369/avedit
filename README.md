@@ -29,10 +29,10 @@ sudo pacman -S ffmpeg      # Arch Linux
 
 ## 📦 Usage
 ```
-chmod +x avedit.sh
-./avedit.sh <input_video>
+chmod +x avedit
+./avedit <input_video>
 ```
-Example: ./avedit.sh video.mkv music.aac
+Example: ./avedit video.mkv music.aac
 
 ## 🧾 Menu Options
 
