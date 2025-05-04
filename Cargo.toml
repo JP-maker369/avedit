@@ -1,6 +1,12 @@
 [package]
-name = "avedit"
+name = "slint"
 version = "0.1.0"
 edition = "2024"
+#build = "build.rs"
 
 [dependencies]
+#slint = "1.11.0"
+rfd = "0.15.3"
+
+#[build-dependencies]
+#slint-build = "1.11.0"
